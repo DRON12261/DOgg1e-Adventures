@@ -1,0 +1,7 @@
+C:\Users\DRON\source\repos\UnnamedKursachProject\UnnamedKursachProject\bin\Debug\UnnamedKursachProject.exe.config
+C:\Users\DRON\source\repos\UnnamedKursachProject\UnnamedKursachProject\bin\Debug\UnnamedKursachProject.exe
+C:\Users\DRON\source\repos\UnnamedKursachProject\UnnamedKursachProject\bin\Debug\UnnamedKursachProject.pdb
+C:\Users\DRON\source\repos\UnnamedKursachProject\UnnamedKursachProject\obj\Debug\UnnamedKursachProject.csprojAssemblyReference.cache
+C:\Users\DRON\source\repos\UnnamedKursachProject\UnnamedKursachProject\obj\Debug\UnnamedKursachProject.csproj.CoreCompileInputs.cache
+C:\Users\DRON\source\repos\UnnamedKursachProject\UnnamedKursachProject\obj\Debug\UnnamedKursachProject.exe
+C:\Users\DRON\source\repos\UnnamedKursachProject\UnnamedKursachProject\obj\Debug\UnnamedKursachProject.pdb

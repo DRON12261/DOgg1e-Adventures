@@ -1,0 +1,9 @@
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\bin\Debug\D@gg1e Adventures.exe.config
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\bin\Debug\D@gg1e Adventures.exe
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\bin\Debug\D@gg1e Adventures.pdb
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\obj\Debug\D@gg1e Adventures.csprojAssemblyReference.cache
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\obj\Debug\D@gg1e Adventures.csproj.CoreCompileInputs.cache
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\obj\Debug\D@gg1e Adventures.exe
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\obj\Debug\D@gg1e Adventures.pdb
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\bin\Debug\EncodingsConverter.dll
+C:\Users\DRON\source\repos\D@gg1e Adventures\D@gg1e Adventures\obj\Debug\D@gg1e Adventures.csproj.CopyComplete
